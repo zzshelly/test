@@ -1,3 +1,6 @@
 {
-    "name": "zzshelly/test"
+    "name": "zzshelly/test",
+    "autoload":{
+        "classmap":["src/"]
+    }
 }
